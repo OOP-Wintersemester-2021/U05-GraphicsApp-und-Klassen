@@ -1,5 +1,5 @@
 ---
-title: Übungsblatt 6
+title: Übungsblatt 5
 author: Zuletzt bearbeitet von Jürgen Hahn
 documentclass: scrartcl
 classoption:
